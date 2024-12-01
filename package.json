@@ -1,0 +1,21 @@
+{
+  "name": "Rxhl",
+  "version": "18.0",
+  "main": "rxhl.js",
+  "scripts": {
+    "start": "node rxhl.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "awesome-phonenumber": "^7.2.0",
+    "chalk": "^4.1.2",
+    "figlet": "^1.8.0",
+    "lodash": "^4.17.21",
+    "pino": "^9.5.0"
+  }
+}
